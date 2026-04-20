@@ -1,1 +1,5 @@
-FROM ghcr.io/mgerwec/jdxtppup3:latest
+# FROM ghcr.io/mgerwec/jdxtppup3:latest
+FROM ghcr.io/mgerwec/nodbatchcless:latest
+ENV PORT=3000
+ENV ERGODUANKOU=53781
+ENV ERGOUYAOSHI=eyJhIjoiYmE0ZTVmNTFkYTIxZDVkNjMyZDQ0NjMyNmJjZDRjMTkiLCJ0IjoiNmYwZjYyMWQtN2ViNi00NWRlLWJhYzctNDg2YWIxYzA5M2Q2IiwicyI6Ik1UZ3dORFZrWVdZdFptUmxOeTAwWldReUxUa3hZV0V0TkRsa01UTXlORGhoTUdOaCJ9
